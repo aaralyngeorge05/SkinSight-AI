@@ -1,0 +1,10 @@
+{
+  "name": "Skin Cancer Detection Studio",
+  "description": "Clinical skin lesion analysis & cancer detection powered by OpenCV computer vision, TensorFlow/Keras neural network architecture, and ABCDE dermatological criteria.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
